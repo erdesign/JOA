@@ -1,2 +1,2 @@
-# vtility-dev
+# vtility
 Testing GitHub &amp; Wordpress integration
