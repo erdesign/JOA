@@ -1,2 +1,3 @@
 # vtility
-Testing GitHub &amp; Wordpress integration
+Testing GitHub &amp; Wordpress integration.
+Working on my GitHub skills.
